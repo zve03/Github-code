@@ -44,6 +44,9 @@ Public FacturatieK As Integer
 Public OmschrijvingK As Integer
 Public Prijs As Double
 
+public eerstebranchtest as integer
+
+
 Sub LijnVerwijderen()
 Dim x As Range
 Dim y As Integer
